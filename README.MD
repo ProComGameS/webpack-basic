@@ -21,11 +21,11 @@ Before starting, make sure you have:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/<your-repository-name>.git
+   git clone https://github.com/ProComGameS/webpack-basic.git
 
 Navigate to the Project Directory:
 ```
- cd <your-repository-name>
+ cd <repository-name>
 ```
 
 Install Dependencies:
