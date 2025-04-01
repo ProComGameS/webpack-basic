@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Super Lobster';
+    src: url('./fonts/Super Lobster.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Super Lobster', cursive;
+    background: url('./images/smile.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
